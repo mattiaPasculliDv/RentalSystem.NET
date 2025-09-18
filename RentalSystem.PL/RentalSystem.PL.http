@@ -1,0 +1,6 @@
+@RentalSystem.PL_HostAddress = http://localhost:5248
+
+GET {{RentalSystem.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
